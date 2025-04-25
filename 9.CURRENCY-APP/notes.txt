@@ -1,0 +1,11 @@
+insan = {
+  
+          isim:Osman Can,
+          soyisim: Beyazoğlu
+        
+        }
+insan[isim] => console.log(response.data.data[toCurrency]
+----------------------------------------------------------------
+  <input value={amount}
+      onChange={(e) => setAmount(e.target.value)} type="number" className='amount' />
+onchange ile yakalıyoruz input'a girilen değerleri
